@@ -1,0 +1,57 @@
+body
+{
+	background-color: rgb(245, 245, 245);
+	background-size: cover;
+}
+	/* Nav */
+#navbi
+{
+	background-color: white;
+	margin-top: 10px;
+}
+#navyi
+{
+	color: black;
+	font-weight: bold;
+	border-right: 1px solid black;
+}
+#navyi:hover
+{
+	background-color: rgb(46, 46, 46);
+	color: white;
+}
+#navyiactive
+{
+	background-color: rgb(237, 33, 77);
+	font-weight: bold;
+	color: white;
+	text-transform: uppercase;
+}
+img
+{
+margin-left: 100px;
+margin-top: -65px;
+width: 150px;
+}
+#seet
+{
+	margin-left: 1250px;
+	margin-top: -63px;
+}
+/*Images*/
+#tofs
+{
+	margin-top: 150px;
+	margin-left: -80px;
+}
+#descrip
+{
+	margin-left: 680px;
+	margin-top: -400px;
+}
+/*Footer*/
+.footerbi
+{
+	text-align: center;
+	font-weight: bold;
+}

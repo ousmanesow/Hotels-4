@@ -1,0 +1,51 @@
+body
+{
+	background-color: rgb(245, 245, 245);
+	background-size: cover;
+	background-image: url("img/11.jpg");
+}
+	/* Nav */
+#navbi
+{
+	background-color: white;
+	margin-top: 10px;
+}
+#navyi
+{
+	color: black;
+	font-weight: bold;
+	border-right: 1px solid black;
+}
+#navyi:hover
+{
+	background-color: rgb(46, 46, 46);
+	color: white;
+}
+#navyiactive
+{
+	background-color: rgb(237, 33, 77);
+	font-weight: bold;
+	color: white;
+	text-transform: uppercase;
+}
+img
+{
+margin-left: 100px;
+margin-top: -65px;
+width: 150px;
+}
+#seet
+{
+	margin-left: 1250px;
+	margin-top: -63px;
+}
+/*Footer*/
+.footerbi
+{
+	text-align: center;
+	font-weight: bold;
+}
+#jot
+{
+	margin-left: 320px;
+}
